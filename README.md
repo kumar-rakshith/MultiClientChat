@@ -23,7 +23,7 @@ The system is based on a **server-client** model:
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/kumar-rakshith/MultiChat.git
+git clone https://github.com/kumar-rakshith/MultiClientChat.git
 ```
 
 ## 2. Compile the Server and Client
