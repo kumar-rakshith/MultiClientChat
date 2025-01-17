@@ -2,6 +2,7 @@
 
 MultiChat is a simple and lightweight chat application designed to allow multiple clients to connect and interact with each other in real-time. It supports a server-client architecture, where the server can handle multiple clients concurrently using threads.
 
+
 ## Features
 - **Multi-client support**: The server can handle multiple clients at the same time.
 - **Real-time messaging**: Messages sent by any client are broadcasted to all other connected clients in real-time.
