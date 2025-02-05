@@ -1,5 +1,4 @@
 
-
 CC = gcc
 CFLAGS = -pthread
 SERVER_SRC = server/server.c
